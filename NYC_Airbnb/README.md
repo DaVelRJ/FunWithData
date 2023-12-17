@@ -1,2 +1,2 @@
-# DataScience
-Independent Data Science projects using data analysis techniques and machine learning algorithms. 
+# NYC Airbnb
+Example scripts created using New York City Airbnb data downloaded from Kaggle. Author Da'Vel Johnson. Published 2020. 
